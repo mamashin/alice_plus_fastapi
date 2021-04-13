@@ -1,0 +1,8 @@
+MQTT_SRV=192.168.1.1
+REDIS_SRV=192.168.1.2
+
+CLIENT_ID=abra_kadabra_1
+CLIENT_SECRET=abra_kadabra_2
+CLIENT_CODE=abra_kadabra_3
+TOKEN=abra_kadabra_4
+USER_ID=user_id
