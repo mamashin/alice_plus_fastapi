@@ -1,4 +1,4 @@
-###Yandex Алиса + FastAPI
+### Yandex Алиса + FastAPI
 
 Очередной, 100500, шлюз Алисы для любителей DIY + IoT + Python.
 
